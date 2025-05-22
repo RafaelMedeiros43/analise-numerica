@@ -1,0 +1,6 @@
+a implementação forward, que começa com $ T_1(f,c,d) $
+e vai até $ T_{n+10}(f,c,d) $, e a abordagem de backtracking,
+que começa diretamente com $ T_{n+10}(f,c,d) $.
+A implementação forward é mais controlada e fácil de entender,
+mas pode ser lenta. A abordagem de backtracking é mais rápida e reduz avaliações,
+mas pode pular pontos importantes.
